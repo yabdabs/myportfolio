@@ -652,6 +652,11 @@ footer {
 
 .project-image {
     float: left;
+    height: auto;
+    width: auto;
+    max-width: 250px;
+    max-height: 250px;
+    overflow: hidden;
 }
 
 .project-info {
